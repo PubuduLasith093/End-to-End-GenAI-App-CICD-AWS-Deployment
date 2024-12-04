@@ -31,12 +31,12 @@ PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-# run the following command to store embeddings to pinecone
+### run the following command to store embeddings to pinecone
 ```bash
 python store_index.py
 ```
 
-# Finally run the following command
+### Finally run the following command
 ```bash
 python app.py
 ```
